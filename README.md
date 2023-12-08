@@ -106,36 +106,29 @@
 |       Gene       |
 |:---------------------------:|
 | ![Alt text](res/GENE.png) | ![Alt text](res/GENEboundingrect.png)  |
-|   Estimated Hand Area: 153.715 cm^2
+|   Estimated Hand Area: 153.715 cm² |
+| True Bounding Box Area: 22.3cm x 18.2cm = 405.86 cm² |
+| Estimated Bounding Box Area: 403.308 cm² |
+| Estimated Error: $\left|\frac{{405.86 - 403.308}}{{405.86}}\right| \times 100 \div 405.86 = 0.629\%$ |
 
-True Bounding Box Area: 22.3cm x 18.2cm = 405.86 cm^2
-Estimated Bounding Box Area: 403.308 cm^2
-
-Estimated Error: $\left|\frac{{405.86 - 403.308}}{{405.86}}\right| \times 100 \div 405.86 = 0.629\%$
-     |
 
 |       Jun       |
 |:---------------------------:|
 | ![Alt text](res/JUN.png)| ![Alt text](res/JUNboundingrect.png)  |
-|   Estimated Hand Area: 120.221 cm^2
+| Estimated Hand Area: 120.221 cm² |
+| True Bounding Box Area: 17 cm x 19 cm = 323 cm² |
+| Estimated Bounding Box Area: 325.329 cm² |
+| Estimated Error: $\left| \frac{{325.329 - 323}}{{323}} \right| \times \frac{100}{323} = 0.721\%$ |
 
-True Bounding Box Area: 17 cm x 19 cm = 323 cm^2
-Estimated Bounding Box Area: 325.329 cm^2
-
-Estimated Error: $\left| \frac{{325.329 - 323}}{{323}} \right| \times \frac{100}{323} = 0.721\%$
-
-     |
 
 |       Tirmizi       |
 |:---------------------------:|
 | ![Alt text](res/TIRMIZI.png)| ![Alt text](res/TIRMIZIboundingrect.png)  |
-|   Estimated Hand Area: 164.930 cm^2
+| Estimated Hand Area: 164.930 cm² |
+| True Bounding Box Area: 20 cm x 19.3 cm = 386 cm² |
+| Estimated Bounding Box Area: 388.749 cm² |
+| Estimated Error: $\left| \frac{{386 - 388.749}}{{386}} \right| \times \frac{100}{386} = 0.712\%$ |
 
-True Bounding Box Area: 20 cm x 19.3 cm = 386 cm ^2
-Estimated Bounding Box Area: 388.749 cm ^2
-
-Estimated Error: $\left| \frac{{386 - 388.749}}{{386}} \right| \times \frac{100}{386} = 0.712\%$
-    |
 
 ### Prerequisites
 
