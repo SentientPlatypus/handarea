@@ -127,7 +127,8 @@
 | Estimated Hand Area: 164.930 cm² |
 | True Bounding Box Area: 20 cm x 19.3 cm = 386 cm² |
 | Estimated Bounding Box Area: 388.749 cm² |
-| Estimated Error: $\left| \frac{{386 - 388.749}}{{386}} \right| \times \frac{100}{386} = 0.712\%$ |
+| Estimated Error: $|\frac{{386 - 388.749}}{{386}}| \times \frac{100}{386} = 0.712\%$ |
+
 
 
 ### Prerequisites
